@@ -2,7 +2,7 @@ import tkinter as tk
 
 window = tk.Tk()
 window.title("Мои задачи: Перенос элементов")
-window.geometry("750x350") # Увеличили ширину, чтобы всё точно влезло
+window.geometry("800x600") # Увеличили ширину, чтобы всё точно влезло
 
 # --- Настройки стилей для списков ---
 listbox_style = {
